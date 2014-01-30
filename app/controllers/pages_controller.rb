@@ -5,4 +5,7 @@ class PagesController < ApplicationController
 def hiw
   end
 
+ def mytwiscount
+  end
+
 end
