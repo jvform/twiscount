@@ -1,0 +1,16 @@
+.jumbotron h1 {
+	color: #4099FF;
+}
+
+#gobutton {
+	background: #4099FF;
+	font-color: white;
+}
+
+#gobutton a{
+	color: white;
+}
+
+.navbar-nav {
+	float:right;
+}
